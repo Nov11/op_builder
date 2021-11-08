@@ -1,0 +1,6 @@
+.venv/
+cmake-build-debug/
+out/
+build/
+.idea/
+*.iml
